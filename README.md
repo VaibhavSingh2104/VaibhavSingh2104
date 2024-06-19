@@ -19,11 +19,15 @@
 <h3 align="left">🛠️ Languages and Tools :</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,javascript,cpp,c"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,python,redux,vscode,figma,bootstrap,git,github"/>
+    <img src="https://skillicons.dev/icons?i=javascript,cpp,c,mysql,java,python"/>
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,vscode,figma,bootstrap,git,github"/>
   </a>
 </p>
 
